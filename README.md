@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/walibaloch">Wali Balochs</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/walibaloch">Wali Baloch</a>'s Profile 👋</h1>
 </p>
 <p align="center">
   <a align="center" href="#"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Back+end+developer;I'm+a+Flask+developer" /></a>
@@ -23,6 +23,17 @@
 </p>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left"> 
+   <p>
+    <img src="https://img.shields.io/badge/-Pycharm-13B03C?style=flat-square&logo=Pycharm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Flask-370E77?style=flat-square&logo=Flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Ubuntu-A80030?style=flat-square&logo=Ubuntu&logoColor=white"/>
+
+  </p>
 </p>
 
 
