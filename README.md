@@ -10,18 +10,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p>
-<a href="https://github.com/EmmadiDivyaSrujana"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-black?logo=github&style=flat-square"/></a>
-<a href="https://instagram.com/iscobaloch?igshid=esstkghnur2d"><img src="https://img.shields.io/badge/-Divya_Srujana-pink?logo=instagram&style=flat-square"/></a>
-<a href="mailto:iscobaloch@gmail.com"><img src="https://img.shields.io/badge/-edsrujana1@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/iscobaloch"><img src="https://img.shields.io/badge/-divya__emmadi-blue?logo=twitter&style=flat-square"/></a>
+<a href="https://github.com/EmmadiDivyaSrujana"><img src="https://img.shields.io/badge/-iscobaloch-black?logo=github&style=flat-square"/></a>
+<a href="https://instagram.com/iscobaloch?igshid=esstkghnur2d"><img src="https://img.shields.io/badge/-iscobaloch-pink?logo=instagram&style=flat-square"/></a>
+<a href="mailto:iscobaloch@gmail.com"><img src="https://img.shields.io/badge/-iscobaloch@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="https://twitter.com/iscobaloch"><img src="https://img.shields.io/badge/-iscobaloch-blue?logo=twitter&style=flat-square"/></a>
 </p>
 </p>
-
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left"> 
-
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iscobaloch&show_icons=true&locale=en&layout=compact" alt="iscobaloch" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iscobaloch&" alt="iscobaloch" /></p>
+<h2>Experience</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iscobaloch&show_icons=true&locale=en&layout=compact" alt="iscobaloch" />  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iscobaloch&" alt="iscobaloch" /></p>
