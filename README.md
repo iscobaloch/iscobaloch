@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wali Baloch</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Backend developer from Pakistan</h3>
 
 <p align="left"> <a href="https://twitter.com/iscobaloch" target="blank"><img src="https://img.shields.io/twitter/follow/iscobaloch?logo=twitter&style=for-the-badge" alt="iscobaloch" /></a> </p>
 
