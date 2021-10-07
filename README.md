@@ -4,14 +4,13 @@
 <p align="center">
   <a align="center" href="#"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Back+end+developer;I'm+a+Flask+developer" /></a>
 </p>
-<p>I am a Back-end developer, I love to create projects in Flask.</p>
-
-<p align="left"> <a href="https://twitter.com/iscobaloch" target="blank"><img src="https://img.shields.io/twitter/follow/iscobaloch?logo=twitter&style=for-the-badge" alt="iscobaloch" /></a> </p>
+<p>- I am a Back-end developer, I love to create projects in Flask.</p>
+<h2></h2>
 
 - 🔭 I’m currently working on **Flask Framework**
 
 - 👯 I’m looking to collaborate on **any Flask related project**
-
+<h2></h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p>
