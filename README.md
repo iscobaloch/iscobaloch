@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/walibaloch">Wali Baloch</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/iscobaloch">Wali Baloch</a>'s Profile 👋</h1>
 </p>
 <p align="center">
   <a align="center" href="#"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Back+end+developer;I'm+a+Flask+developer" /></a>
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p>
-<a href="https://github.com/EmmadiDivyaSrujana"><img src="https://img.shields.io/badge/-iscobaloch-black?logo=github&style=flat-square"/></a>
+<a href="https://github.com/iscobaloch"><img src="https://img.shields.io/badge/-iscobaloch-black?logo=github&style=flat-square"/></a>
 <a href="https://instagram.com/iscobaloch"><img src="https://img.shields.io/badge/-iscobaloch-pink?logo=instagram&style=flat-square"/></a>
 <a href="mailto:iscobaloch@gmail.com"><img src="https://img.shields.io/badge/-iscobaloch@gmail.com-black?logo=gmail&style=flat-square"/></a>
 <a href="https://twitter.com/iscobaloch"><img src="https://img.shields.io/badge/-iscobaloch-blue?logo=twitter&style=flat-square"/></a>
