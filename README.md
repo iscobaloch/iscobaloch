@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 📊 I'm Currently learning **ReactsJS**
+- 📊 I'm Currently learning **ReactJS**
 - 🔭 I’m have experience in working on **Flask-based web apps**
 - 🌱 Learning more about **Docker**, **APIs**, and **backend scaling**
 - 👯 Open to collaborating on **Flask or Full-Stack projects**
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Pycharm-13B03C?style=flat-square&logo=pycharm&logoColor=white"/>
